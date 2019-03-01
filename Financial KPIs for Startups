@@ -1,0 +1,18 @@
+# Key performance Indicators of Hotel
+Accomodation
+# Average Room Rate
+ARR = Total Room Revenue/ Total Room Occupied
+
+# Occupancy Rate
+OCC = Room sold/ Room Available
+
+# Revenue per Available Room
+RpR= Rooms Revenue/ Room available
+
+# Cost per Occupied Room
+CpOR = Total Rooms Cost/ Nos Rooms sold
+
+# Contr or Profit earning for each room available
+PpR= Profit for the year/ Daily available rooms per year
+
+
