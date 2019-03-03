@@ -10,12 +10,47 @@ is similiar to Current Ratio except excluding the least liquid assets.
 Quick Ratio = Quick Assets/ Current Liabilities
 
 ## Activity Ratios
-#Inventory Turnover 
-measures the speed of product to be sold.
+#Inventory Turnover :the speed of product to be sold.
 
 Inventory Turnover= Cost of Goods Sold/ Inventory
 
-#Average Collection Period
-measures the period (days) needed to collect cash from debtors.
+#Average Collection Period :the period (days) needed to collect cash from debtors.
 
 Average Collection Period= Account Receivable/ Average sales per day
+
+# Average Payment Period: the creditor days
+
+Average Payment Period= Account Payable/ Average Purchase per day
+
+## Asset Turnover
+# Total Assets Turnover
+the efficiency of using assets to generate sales
+
+Total Assets Turnover =  Sales/ Total Assets
+
+## Capital structure
+# Debt Ratio
+the proportion of total assets financed by the long term debt
+
+Debt Ratio = Debt/ Total Assets
+
+# Debt to Equity
+the relative structure of owner's equity and the debt
+
+Debt to Equity = Debt/ Equity
+
+## Performance Measure
+# Times Interest Earned Ratio(TIER)
+measure the proportion of the earning and the contractual interest payment
+
+TIER= Earning before Interest and Tax / Interest
+
+# Fixed Payment Coverage Ratio(FPC)
+the ability to meet all fixed payment obligations.
+
+FPC = EBIT + Leased Payment/ [Int + Lease Payment + {(Principal Payment+ Pref Stock Dividend)* (1/(1-Tax))}
+
+
+
+
+
