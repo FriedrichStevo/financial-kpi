@@ -22,7 +22,7 @@ Average Collection Period= Account Receivable/ Average sales per day
 
 Average Payment Period= Account Payable/ Average Purchase per day
 
-## Asset Turnover
+#Asset Turnover
 # Total Assets Turnover
 the efficiency of using assets to generate sales
 
@@ -39,7 +39,7 @@ the relative structure of owner's equity and the debt
 
 Debt to Equity = Debt/ Equity
 
-## Performance Measure
+#
 # Times Interest Earned Ratio(TIER)
 measure the proportion of the earning and the contractual interest payment
 
@@ -49,6 +49,27 @@ TIER= Earning before Interest and Tax / Interest
 the ability to meet all fixed payment obligations.
 
 FPC = EBIT + Leased Payment/ [Int + Lease Payment + {(Principal Payment+ Pref Stock Dividend)* (1/(1-Tax))}
+
+## Profitability
+# GP margin= Gross Profit/ Sales
+
+# Operating Profit margin= Operating Profit/ Sales
+
+# Net Profit margin= Earning available for Common Stockholders/ Sales
+
+# EPS = Earning Available for Common Stockholders/ No of Common Stock
+
+# ROA = Earning Available for Common Stockholders/ Total Asset
+# ROA= Net Profit Margin * Total Asset Turnover
+
+# ROE = Earning Available for Common Stockholders/ Equity
+
+## Market Value
+# PE = Market Price per Share of Common Stock/ EPS
+
+# Market/Book Ratio= Market Price per Share of Common Stock/ BVper share of Common Stock
+
+
 
 
 
