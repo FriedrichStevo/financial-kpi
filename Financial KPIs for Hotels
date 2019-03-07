@@ -1,9 +1,11 @@
 # Key performance Indicators of Hotel
 Accomodation
-# Average Room Rate
+Total Available Rooms= Total Number of Rooms - Number of Rooms out of order
+
+# Average Room Rate: Average Rate paid per Room
 ARR = Total Room Revenue/ Total Room Occupied
 
-# Occupancy Rate
+# Occupancy Rate : Revenue per Available Rooms
 OCC = Room sold/ Room Available
 
 # Revenue per Available Room
@@ -12,7 +14,19 @@ RpR= Rooms Revenue/ Room available
 # Cost per Occupied Room
 CpOR = Total Rooms Cost/ Nos Rooms sold
 
-# Contr or Profit earning for each room available
+# Contr or GrossProfit earning for each room available
 PpR= Profit for the year/ Daily available rooms per year
 
+# Marketing Cost per Booking
+MCPB= Revenue from Booking- Cost of Marketing 
+
+# Direct Revenue Ratio
+DRR = Online Revenue from HotelWebsite/ Revenue from Agents Channels
+
+# Likes: Sentiment Score of Gust Satisfaction # TripAdvisor
+Score per Month
+
+# Website conversion Rate
+(Acceptable rate 2-3 percent)
+WCR= WebVisitor/ Bookings
 
